@@ -1,0 +1,57 @@
+body {
+    max-width: max-content;
+    margin: auto;
+    background:linear-gradient(90deg, brown, orange);
+    }
+    
+    #img-div {
+      background-color:white;
+      padding: 2.5em;
+      margin: 0 auto;
+      border-radius: 5%;
+      box-shadow: 3px 4px 3px black;
+    }
+    
+    h1{
+      text-align:center;
+      font-size: 5em;
+      color: #fff;
+      text-shadow: 2px 2px 2px black;
+    }
+    h2{
+      margin: 0;
+      padding: 1em 1em 0em;
+      text-align:center;
+      font-size: 2em;
+      
+    }
+    #tribute-info{
+      display:flex;
+      justify-content:center;
+      text-shadow: 1px 1px 1px black;
+    }
+    
+    ol {
+      color:white;
+      font-size:20px;
+      padding:20px;
+      
+    }
+    li{
+      margin-bottom:20px;
+      margin-left:20px;
+    }
+    #image {
+      max-width:100%;
+      display:block;
+        }
+    
+    a {
+      text-decoration: none;
+      color: white;
+    }
+    
+    a:hover {
+      color: black;
+      font-size: 1.2em;
+    }
